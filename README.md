@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭  I’ve built **distributed systems at AWS (EBS team)**, where I designed Rust-based daemons to refresh multi-GB datasets, reducing CPU spikes and        saving ~$400k annually in projected costs.  
+- 🌱 I’m diving deeper into fault-tolerant distributed architectures, ML-driven systems optimization, and large-scale data pipelines.
+- 🤔 I’m exploring consensus algorithms, stream processing, and efficient model deployment in distributed environments.
 
 <!--
 **shawncshen/shawncshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
