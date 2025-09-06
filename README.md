@@ -1,8 +1,10 @@
-## Hi there 👋
-My name is Shawn, and I’m a Computer Science student at Georgia Tech passionate about Python, Machine Learning, and distributed systems. I enjoy building scalable software and applying AI to solve real-world problems!
-  - 🔭  I’ve worked on **distributed systems at AWS (EBS team)**, where I designed Rust-based daemons to refresh multi-GB datasets, reducing CPU spikes and        saving ~$400k annually in projected costs.  
-  - 🌱 I’m diving deeper into fault-tolerant distributed architectures, ML-driven systems optimization, and large-scale data pipelines.
-  - 🤔 I’m exploring consensus algorithms, stream processing, and efficient model deployment in distributed environments.
+## Hi, I’m Shawn 👋  
+
+🎓 CS @ Georgia Tech | ⚙️ Distributed Systems | 🤖 AI/ML  
+
+- 🔧 Built **Rust daemons at AWS (EBS)** to refresh multi-GB datasets, reducing CPU spikes & saving ~$400k annually.  
+- 🌱 Learning **fault-tolerant distributed architectures** & **ML-driven systems optimization**.  
+- 🚀 Exploring **consensus algorithms, stream processing, and scalable AI pipelines**.  
 
 <!--
 **shawncshen/shawncshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
