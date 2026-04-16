@@ -1,10 +1,10 @@
-## Hi, I’m Shawn 👋  
+## Hi, I’m Shawn   
 
 🎓 CS @ Georgia Tech | ⚙️ Distributed Systems | 🤖 AI/ML  
 
-- 🔧 Built **Rust daemons at AWS (EBS)** to refresh multi-GB datasets, reducing CPU spikes & saving ~$400k annually.  
-- 🌱 Learning **fault-tolerant distributed architectures** & **ML-driven systems optimization**.  
-- 🚀 Exploring **consensus algorithms, stream processing, and scalable AI pipelines**.  
+- built **Rust daemons at AWS (EBS)** to refresh multi-GB datasets, reducing CPU spikes & saving ~$400k annually.  
+- learning **fault-tolerant distributed architectures** & **ML-driven systems optimization**.  
+- exploring **consensus algorithms, stream processing, and scalable AI pipelines**.  
 
 <!--
 **shawncshen/shawncshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
