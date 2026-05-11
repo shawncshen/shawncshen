@@ -1,6 +1,6 @@
 ## Hi, I’m Shawn   
 
-🎓 CS @ Georgia Tech | ⚙️ Distributed Systems | 🤖 AI/ML  
+🎓 CS @ Georgia Tech | Distributed Systems | AI/ML  
 
 - built **Rust daemons at AWS (EBS)** to refresh multi-GB datasets, reducing CPU spikes & saving ~$400k annually.  
 - learning **fault-tolerant distributed architectures** & **ML-driven systems optimization**.  
