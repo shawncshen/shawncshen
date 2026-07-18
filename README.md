@@ -1,4 +1,4 @@
-## Hi, I’m Shawn   
+## Helloo I’m Shawn   
 
 I study CS @ Georgia Tech 
 
