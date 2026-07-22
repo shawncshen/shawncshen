@@ -2,7 +2,7 @@
 
 I study CS @ Georgia Tech 
 
-- built **Rust daemons at AWS (EBS)** to refresh multi-GB datasets, reducing CPU spikes & saving ~$400k annually.  
+- built **Rust daemons at AWS (EBS)** to refresh multi-GB datasets, reducing CPU spikes & saving ~$400k annually in S3 costs.  
 - learning **fault-tolerant distributed architectures** & **ML-driven systems optimization**.  
 - exploring **consensus algorithms, stream processing, and scalable AI pipelines**.  
 
