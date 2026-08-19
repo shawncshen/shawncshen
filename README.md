@@ -4,7 +4,9 @@ I study CS @ Georgia Tech
 
 - built **Rust daemons at AWS (EBS)** to refresh multi-GB datasets, reducing CPU spikes & saving ~$400k annually in S3 costs.  
 - learning **fault-tolerant distributed architectures** & **ML-driven systems optimization**.  
-- exploring **consensus algorithms, stream processing, and scalable AI pipelines**.  
+- exploring **consensus algorithms, stream processing, and scalable AI pipelines**.
+
+feel free to reach out to me any time
 
 <!--
 **shawncshen/shawncshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
